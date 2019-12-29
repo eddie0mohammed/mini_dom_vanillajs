@@ -1,0 +1,17 @@
+
+tasklist using vanilla_js and materialize
+
+1. create elements and nodes using methods: 
+
+- document.createElement(li)
+- li.className = 'x'
+- li.innerHTML = 'anbs'
+- document.createTextNode
+- ul.appendChild(li)
+
+- e.target.parentNode.classList.contains('class');
+- li.parentNode.removeChild(li);
+
+
+2. filtering from tasklist
+
